@@ -1,6 +1,6 @@
 # AICyberCamp Website
 
-This is the official website for **AICyberCamp**, the educational nonprofit arm of the Church of the Infinite Mind.
+This is the official website for **AICyberCamp**
 
 ## 🌐 Overview
 
